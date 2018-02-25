@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SC3</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+
+    <string-array name="mineral_titles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Lamineral</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <array name="mineral_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    <string-array name="mineral_info">
+        <item>Here is some Ades news!</item>
+        <item>Here is some Amidis news!</item>
+        <item>Here is some Aqua news!</item>
+        <item>Here is some Cleo news!</item>
+        <item>Here is some Club news!</item>
+        <item>Here is some Equil news!</item>
+        <item>Here is some Evian news!</item>
+        <item>Here is some Lemineral news!</item>
+        <item>Here is some Nestle news!</item>
+        <item>Here is some Pristine news!</item>
+        <item>Here is some Vite news!</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>AMIDIS adalah air minum kesehatan yang diproses melalui sistem distilasi atau penyulingan atau penguapan,melalui proses pemanasan hingga 180 derajat celcius sehingga menghasilkan air minum yang murni (NON-MINERAL) tanpa kandungan polutan, mineral anorganik maupun bahan kontaminasi lain seperti bahan kimia maupun bahan pestisida.</item>
+        <item>Here is some Amidis news!</item>
+        <item>Here is some Aqua news!</item>
+        <item>Here is some Cleo news!</item>
+        <item>Here is some Club news!</item>
+        <item>Here is some Equil news!</item>
+        <item>Here is some Evian news!</item>
+        <item>Here is some Lemineral news!</item>
+        <item>Here is some Nestle news!</item>
+        <item>Here is some Pristine news!</item>
+        <item>Here is some Vite news!</item>
+
+    </string-array>
+</resources>
